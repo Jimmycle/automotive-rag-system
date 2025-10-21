@@ -26,3 +26,7 @@
 
 ## 评估结果
 系统在测试集上实现了85%的准确率，相比无RAG基线提升35%。
+
+## 截图
+<img src="./screenshots/img.png" alt="截图1" width="200" />
+<img src="./screenshots/img2.png" alt="截图2" width="200" />
